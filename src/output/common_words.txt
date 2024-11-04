@@ -1,7 +1,7 @@
 📚 Most Common Words in Each Book 📚
 =================================
 
-📖 Cats by Moncrif.txt
+📚– Cats by Moncrif.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -107,7 +107,7 @@ Top 100 most frequent words:
 100. himself (Frequency: 0.00121907)
 
 
-📖 Foxes Book of Martyrs Part 1.txt
+📚– Foxes Book of Martyrs Part 1.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -213,7 +213,7 @@ Top 100 most frequent words:
 100. cause (Frequency: 0.00147177)
 
 
-📖 Foxes Book of Martyrs Part 2.txt
+📚– Foxes Book of Martyrs Part 2.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -319,7 +319,7 @@ Top 100 most frequent words:
 100. matter (Frequency: 0.00147508)
 
 
-📖 Foxes Book of Martyrs Part 3.txt
+📚– Foxes Book of Martyrs Part 3.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -425,7 +425,7 @@ Top 100 most frequent words:
 100. every (Frequency: 0.00155762)
 
 
-📖 Foxes Book of Martyrs Part 4.txt
+📚– Foxes Book of Martyrs Part 4.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -531,7 +531,7 @@ Top 100 most frequent words:
 100. faith (Frequency: 0.00158469)
 
 
-📖 Foxes Book of Martyrs Part 5.txt
+📚– Foxes Book of Martyrs Part 5.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -637,7 +637,7 @@ Top 100 most frequent words:
 100. answer (Frequency: 0.00170082)
 
 
-📖 Foxes Book of Martyrs Part 6.txt
+📚– Foxes Book of Martyrs Part 6.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -743,7 +743,7 @@ Top 100 most frequent words:
 100. can (Frequency: 0.00161901)
 
 
-📖 Gerard's Herbal Vol. 3.txt
+📚– Gerard's Herbal Vol. 3.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -849,7 +849,7 @@ Top 100 most frequent words:
 100. ground (Frequency: 0.0017142)
 
 
-📖 Gerards Herbal Vol. 1.txt
+📚– Gerards Herbal Vol. 1.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -955,7 +955,7 @@ Top 100 most frequent words:
 100. only (Frequency: 0.00155528)
 
 
-📖 Gerards Herbal Vol. 2.txt
+📚– Gerards Herbal Vol. 2.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -1061,7 +1061,7 @@ Top 100 most frequent words:
 100. another (Frequency: 0.00165281)
 
 
-📖 Gerards Herbal Vol.4.txt
+📚– Gerards Herbal Vol.4.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -1167,7 +1167,7 @@ Top 100 most frequent words:
 100. together (Frequency: 0.00170875)
 
 
-📖 Gil Blas.txt
+📚– Gil Blas.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -1273,7 +1273,7 @@ Top 100 most frequent words:
 100. down (Frequency: 0.00125218)
 
 
-📖 Gossip in a Library.txt
+📚– Gossip in a Library.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -1379,7 +1379,7 @@ Top 100 most frequent words:
 100. century (Frequency: 0.00113386)
 
 
-📖 Hudibras.txt
+📚– Hudibras.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -1485,7 +1485,7 @@ Top 100 most frequent words:
 100. found (Frequency: 0.00114213)
 
 
-📖 King of the Beggars.txt
+📚– King of the Beggars.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -1591,7 +1591,7 @@ Top 100 most frequent words:
 100. men (Frequency: 0.00134494)
 
 
-📖 Knocknagow.txt
+📚– Knocknagow.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -1697,7 +1697,7 @@ Top 100 most frequent words:
 100. ill (Frequency: 0.00164191)
 
 
-📖 Les Chats par Moncrif.txt
+📚– Les Chats par Moncrif.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -1707,7 +1707,7 @@ Top 100 most frequent words:
 4. le (Frequency: 0.0199347)
 5.  (Frequency: 0.0195157)
 6. que (Frequency: 0.0178994)
-7. � (Frequency: 0.0146068)
+7. ã  (Frequency: 0.0146068)
 8. des (Frequency: 0.0139184)
 9. qui (Frequency: 0.0135293)
 10. un (Frequency: 0.0112844)
@@ -1746,7 +1746,7 @@ Top 100 most frequent words:
 43. ils (Frequency: 0.00329253)
 44. quil (Frequency: 0.00302314)
 45. lui (Frequency: 0.00293334)
-46. �toit (Frequency: 0.00293334)
+46. ã©toit (Frequency: 0.00293334)
 47. dun (Frequency: 0.00290341)
 48. ou (Frequency: 0.00272382)
 49. aux (Frequency: 0.00266395)
@@ -1770,22 +1770,22 @@ Top 100 most frequent words:
 67. leurs (Frequency: 0.00188572)
 68. quils (Frequency: 0.00188572)
 69. cet (Frequency: 0.00176599)
-70. m�me (Frequency: 0.00176599)
+70. mãªme (Frequency: 0.00176599)
 71. avoit (Frequency: 0.00173606)
 72. nest (Frequency: 0.00173606)
-73. �tre (Frequency: 0.00173606)
+73. ãªtre (Frequency: 0.00173606)
 74. dune (Frequency: 0.00164626)
 75. mon (Frequency: 0.00164626)
 76. fut (Frequency: 0.00161633)
 77. encore (Frequency: 0.00155647)
-78. o� (Frequency: 0.00146667)
+78. oã¹ (Frequency: 0.00146667)
 79. ma (Frequency: 0.00143674)
 80. yeux (Frequency: 0.00140681)
 81. animaux (Frequency: 0.00134694)
 82. grisette (Frequency: 0.00134694)
 83. ainsi (Frequency: 0.00131701)
 84. jamais (Frequency: 0.00131701)
-85. �t� (Frequency: 0.00128708)
+85. ã©tã© (Frequency: 0.00128708)
 86. dit (Frequency: 0.00125715)
 87. nos (Frequency: 0.00122721)
 88. aussi (Frequency: 0.00119728)
@@ -1803,7 +1803,7 @@ Top 100 most frequent words:
 100. m (Frequency: 0.00107755)
 
 
-📖 Lives and Anecdotes of Misers.txt
+📚– Lives and Anecdotes of Misers.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -1909,7 +1909,7 @@ Top 100 most frequent words:
 100. heart (Frequency: 0.00125408)
 
 
-📖 Love and Madness - Herbert Croft.txt
+📚– Love and Madness - Herbert Croft.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -2015,7 +2015,7 @@ Top 100 most frequent words:
 100. since (Frequency: 0.00130493)
 
 
-📖 Memoirs of Laetitia Pilkington V 1.txt
+📚– Memoirs of Laetitia Pilkington V 1.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -2121,7 +2121,7 @@ Top 100 most frequent words:
 100. mind (Frequency: 0.001321)
 
 
-📖 Memoirs of Laetitia Pilkington V 2.txt
+📚– Memoirs of Laetitia Pilkington V 2.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -2227,7 +2227,7 @@ Top 100 most frequent words:
 100. thought (Frequency: 0.00139909)
 
 
-📖 Memoirs of Laetitia Pilkington V 3.txt
+📚– Memoirs of Laetitia Pilkington V 3.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -2333,7 +2333,7 @@ Top 100 most frequent words:
 100. letter (Frequency: 0.00146649)
 
 
-📖 Memoirs of Mrs Margaret Leeson - Peg Plunkett.txt
+📚– Memoirs of Mrs Margaret Leeson - Peg Plunkett.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -2439,7 +2439,7 @@ Top 100 most frequent words:
 100. lady (Frequency: 0.00131333)
 
 
-📖 Monro his Expedition.txt
+📚– Monro his Expedition.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -2545,7 +2545,7 @@ Top 100 most frequent words:
 100. yet (Frequency: 0.00152207)
 
 
-📖 Mrs Beetons Book of Household Management.txt
+📚– Mrs Beetons Book of Household Management.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -2651,7 +2651,7 @@ Top 100 most frequent words:
 100. whole (Frequency: 0.00147083)
 
 
-📖 Out of the Hurly-Burly.txt
+📚– Out of the Hurly-Burly.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -2757,7 +2757,7 @@ Top 100 most frequent words:
 100. dont (Frequency: 0.00123171)
 
 
-📖 Percys Reliques.txt
+📚– Percys Reliques.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -2863,7 +2863,7 @@ Top 100 most frequent words:
 100. those (Frequency: 0.00113301)
 
 
-📖 Pompey the Little.txt
+📚– Pompey the Little.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -2969,7 +2969,7 @@ Top 100 most frequent words:
 100. world (Frequency: 0.00143988)
 
 
-📖 Radical Pamphlets from the English Civil War.txt
+📚– Radical Pamphlets from the English Civil War.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -3075,7 +3075,7 @@ Top 100 most frequent words:
 100. where (Frequency: 0.00162974)
 
 
-📖 Scepsis Scientifica.txt
+📚– Scepsis Scientifica.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -3181,7 +3181,7 @@ Top 100 most frequent words:
 100. place (Frequency: 0.00124213)
 
 
-📖 The Anatomy of Melancholy Part 1.txt
+📚– The Anatomy of Melancholy Part 1.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -3287,7 +3287,7 @@ Top 100 most frequent words:
 100. being (Frequency: 0.00105439)
 
 
-📖 The Anatomy of Melancholy Part 2.txt
+📚– The Anatomy of Melancholy Part 2.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -3393,7 +3393,7 @@ Top 100 most frequent words:
 100. cannot (Frequency: 0.00116013)
 
 
-📖 The Anatomy of Melancholy Part 3.txt
+📚– The Anatomy of Melancholy Part 3.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -3499,7 +3499,7 @@ Top 100 most frequent words:
 100. itself (Frequency: 0.00107479)
 
 
-📖 The Complete Cony-catching.txt
+📚– The Complete Cony-catching.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -3605,7 +3605,7 @@ Top 100 most frequent words:
 100. again (Frequency: 0.00142048)
 
 
-📖 The Consolation of Philosophy.txt
+📚– The Consolation of Philosophy.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -3711,7 +3711,7 @@ Top 100 most frequent words:
 100. way (Frequency: 0.00149695)
 
 
-📖 The Covent Garden Calendar.txt
+📚– The Covent Garden Calendar.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -3817,7 +3817,7 @@ Top 100 most frequent words:
 100. mother (Frequency: 0.00126965)
 
 
-📖 The Devil on Two Sticks.txt
+📚– The Devil on Two Sticks.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -3923,7 +3923,7 @@ Top 100 most frequent words:
 100. just (Frequency: 0.00131682)
 
 
-📖 The Diary of a Lover of Literature.txt
+📚– The Diary of a Lover of Literature.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -4029,7 +4029,7 @@ Top 100 most frequent words:
 100. force (Frequency: 0.00102888)
 
 
-📖 The History Of Ireland - Geoffrey Keating.txt
+📚– The History Of Ireland - Geoffrey Keating.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -4135,7 +4135,7 @@ Top 100 most frequent words:
 100. died (Frequency: 0.00130371)
 
 
-📖 The History of the Human Heart.txt
+📚– The History of the Human Heart.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -4241,7 +4241,7 @@ Top 100 most frequent words:
 100. left (Frequency: 0.00140411)
 
 
-📖 The Ingoldsby Legends.txt
+📚– The Ingoldsby Legends.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -4347,7 +4347,7 @@ Top 100 most frequent words:
 100. these (Frequency: 0.00115302)
 
 
-📖 The Life of Beau Nash.txt
+📚– The Life of Beau Nash.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -4453,7 +4453,7 @@ Top 100 most frequent words:
 100. few (Frequency: 0.00133027)
 
 
-📖 The Life of King Richard III.txt
+📚– The Life of King Richard III.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -4559,7 +4559,7 @@ Top 100 most frequent words:
 100. took (Frequency: 0.00178738)
 
 
-📖 The Life of Pico della Mirandola.txt
+📚– The Life of Pico della Mirandola.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -4665,7 +4665,7 @@ Top 100 most frequent words:
 100. whose (Frequency: 0.00133842)
 
 
-📖 The Life of john Buncle by Thomas Amory.txt
+📚– The Life of john Buncle by Thomas Amory.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -4771,7 +4771,7 @@ Top 100 most frequent words:
 100. spirit (Frequency: 0.00124522)
 
 
-📖 The Martyrdom of Man.txt
+📚– The Martyrdom of Man.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -4877,7 +4877,7 @@ Top 100 most frequent words:
 100. certain (Frequency: 0.00114147)
 
 
-📖 The Masterpiece of Aristotle.txt
+📚– The Masterpiece of Aristotle.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -4983,7 +4983,7 @@ Top 100 most frequent words:
 100. side (Frequency: 0.00153676)
 
 
-📖 The Memoirs of Count Boruwlaski.txt
+📚– The Memoirs of Count Boruwlaski.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -5089,7 +5089,7 @@ Top 100 most frequent words:
 100. prince (Frequency: 0.00133215)
 
 
-📖 The Metamorphosis of Ajax.txt
+📚– The Metamorphosis of Ajax.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -5195,7 +5195,7 @@ Top 100 most frequent words:
 100. saith (Frequency: 0.00135673)
 
 
-📖 The Newgate Calendar - Supplement 3.txt
+📚– The Newgate Calendar - Supplement 3.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -5301,7 +5301,7 @@ Top 100 most frequent words:
 100. good (Frequency: 0.00138135)
 
 
-📖 The Newgate Calendar Supplement 2.txt
+📚– The Newgate Calendar Supplement 2.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -5407,7 +5407,7 @@ Top 100 most frequent words:
 100. crime (Frequency: 0.00122319)
 
 
-📖 The Newgate Calendar Supplement.txt
+📚– The Newgate Calendar Supplement.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -5513,7 +5513,7 @@ Top 100 most frequent words:
 100. left (Frequency: 0.00125633)
 
 
-📖 The Newgate Calendar V 1.txt
+📚– The Newgate Calendar V 1.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -5599,7 +5599,7 @@ Top 100 most frequent words:
 80. murder (Frequency: 0.00163342)
 81. life (Frequency: 0.00161019)
 82. three (Frequency: 0.00161019)
-83. � (Frequency: 0.00161019)
+83. — (Frequency: 0.00161019)
 84. another (Frequency: 0.00160245)
 85. own (Frequency: 0.00159471)
 86. london (Frequency: 0.00158697)
@@ -5619,7 +5619,7 @@ Top 100 most frequent words:
 100. night (Frequency: 0.0013857)
 
 
-📖 The Newgate Calendar V 2.txt
+📚– The Newgate Calendar V 2.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -5725,7 +5725,7 @@ Top 100 most frequent words:
 100. again (Frequency: 0.00129744)
 
 
-📖 The Newgate Calendar V 3.txt
+📚– The Newgate Calendar V 3.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -5831,7 +5831,7 @@ Top 100 most frequent words:
 100. many (Frequency: 0.00126527)
 
 
-📖 The Newgate Calendar V 4.txt
+📚– The Newgate Calendar V 4.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -5937,7 +5937,7 @@ Top 100 most frequent words:
 100. duchess (Frequency: 0.00120049)
 
 
-📖 The Newgate Calendar V 5.txt
+📚– The Newgate Calendar V 5.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -6043,7 +6043,7 @@ Top 100 most frequent words:
 100. gave (Frequency: 0.00126882)
 
 
-📖 The Newgate Calendar V 6.txt
+📚– The Newgate Calendar V 6.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -6149,7 +6149,7 @@ Top 100 most frequent words:
 100. take (Frequency: 0.00120053)
 
 
-📖 The Poems of Ossian.txt
+📚– The Poems of Ossian.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -6255,7 +6255,7 @@ Top 100 most frequent words:
 100. hills (Frequency: 0.00159244)
 
 
-📖 The Poetical Works of John Skelton.txt
+📚– The Poetical Works of John Skelton.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -6361,7 +6361,7 @@ Top 100 most frequent words:
 100. why (Frequency: 0.00108191)
 
 
-📖 The Protestant Reformation.txt
+📚– The Protestant Reformation.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -6467,7 +6467,7 @@ Top 100 most frequent words:
 100. means (Frequency: 0.00142859)
 
 
-📖 The Real Story of John Carteret Pilkington.txt
+📚– The Real Story of John Carteret Pilkington.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -6573,7 +6573,7 @@ Top 100 most frequent words:
 100. manner (Frequency: 0.00138667)
 
 
-📖 The Rowley Poems.txt
+📚– The Rowley Poems.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
@@ -6584,7 +6584,7 @@ Top 100 most frequent words:
 5. mie (Frequency: 0.00688154)
 6. hys (Frequency: 0.00644626)
 7. is (Frequency: 0.0060939)
-8. � (Frequency: 0.00574153)
+8. æ (Frequency: 0.00574153)
 9. thie (Frequency: 0.00385532)
 10. chatterton (Frequency: 0.00364805)
 11. yn (Frequency: 0.00339932)
@@ -6593,7 +6593,7 @@ Top 100 most frequent words:
 14. bee (Frequency: 0.00321277)
 15. e (Frequency: 0.00319204)
 16. ne (Frequency: 0.00302622)
-17. �lla (Frequency: 0.00302622)
+17. ælla (Frequency: 0.00302622)
 18. ys (Frequency: 0.00294331)
 19. had (Frequency: 0.00292258)
 20. wylle (Frequency: 0.0028604)
@@ -6679,7 +6679,7 @@ Top 100 most frequent words:
 100. words (Frequency: 0.0010571)
 
 
-📖 The Silver Fox.txt
+📚– The Silver Fox.txt
 --------------------------------------------------------------------------------
 Top 100 most frequent words:
 
