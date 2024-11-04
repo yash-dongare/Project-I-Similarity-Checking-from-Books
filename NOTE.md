@@ -1,7 +1,3 @@
-Certainly, here’s a rephrased version:
-
----
-
 **Note to Professor**
 
 Dear Professor,
